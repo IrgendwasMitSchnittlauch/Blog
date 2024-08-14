@@ -1,4 +1,4 @@
-# Welcome to IrgendwasMitSchnittlauch's Blog
+# Welcome to Schnittlauch's Blog
 Hey, my name is Florian, I'm built 2002 and this will be my personal blog.
 
 You might ask yourself: _'a blog based on markdown files, published in a github repos only? Are you serious?'_ 
@@ -15,9 +15,11 @@ Originally I had my own wix hosted blog, which was kinda fun *(design, layouts, 
 
 Now about 2,5 years later, I decided to take a restart and get to start again with my already gained experience this new project.
 
+
+
 ### Interested? Feel free to follow my online adventures
 ---
 > **About the author**
 > 
-> Florian Scholz alias (IrgendwasMit)Schnittlauch is a german based microsoft it system engineer, who loves powershell automation, Azure and microsoft infrastructure services.
+> Florian Scholz alias Schnittlauch is a german based microsoft it system engineer, who loves powershell automation, Azure and microsoft infrastructure services.
 > After work Florian spents a lot of his time as a voluntary firefighter aswell as cooking with his wife.
