@@ -9,7 +9,7 @@ I will try this project of personal public documentation for a few weeks now and
 
 ## Who is this dude, who publishes blog posts in github .md files?
 
-I'm a german based IT system engineer with specialiced in microsoft tech. I'm mainly working with Azure, PowerShell and Windows Server. Im very excited to always learn new technologies.
+I'm a german based IT system engineer specialiced in microsoft tech. I'm mainly working with Azure, PowerShell and Windows Server. Im very excited to always learn new technologies.
 
 Originally I had my own wix hosted blog, which was kinda fun *(design, layouts, features etc.)* but was way too annoying regarding loading times, GDPR and legal stuff. I had to shut down my blog in the begin of 2022 to reduce the amount of headache regarding the whole blog topic. The topics I've discussed, written down and saved were all similar to personal powershell automations, my personal growth aswell as my ms certification path.
 
