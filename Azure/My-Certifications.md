@@ -20,7 +20,6 @@ This led me later due to often Exchange OnPrem and Exchange Online tasks to the 
 - Microsoft Messaging Administrator Associate (MS-203)
 
 ## Applied Skills Certifications
-
 Microsofts new "Applied Skills" certifications are a great alternative for "non-exam learners". <br>
 I've already taken my first applied skills exam on "Administer Active Directory Domain Services", which was a totally new experience.<br>
 While back then, when you had to really learn hard for "exam knowledge", you now have the option of using more reality-based skills.
@@ -31,10 +30,13 @@ I like this idea really, since this is closer on real life experience, then exam
 > About a half year ago, Microsoft introduced into "Applied Skills Certifications".
 > Due to its age, the certifications are very poor regarding topics, knowledge and of reputation. I'll hope, this will change within the next months.
 
+## Quick links and sharings:
+For my german readers, I would strongly recommend to check out the following link to get more in touch with the [Microsoft Virtual Training Days](https://www.microsoft.com/de-de/events-de/virtual-training-days/default.aspx#mavtdaf). <br>
+Furthermore I want to share the [Microsoft Event Calendar](https://events.microsoft.com/en-us/allevents/?language=English&clientTimeZone=1?timeperiod=next30Days?isSharedInLocalViewMode=false) with the possibility to join hundreds of Microsoft events, lectures and presentation from Microsoft or partners.
+
 
 ## Was there any benefit for me? Was it worth it?
-
-personally regarding my current certifications, I really think, that there was a great benefit for me and my personal grow, as well as my career.
+personally regarding my current certifications, I really think, that there was a **great benefit** for me and my personal grow, as well as my career.
 I've been already to multiple job interviews where the number of certifications were a topic for discussion, or at least a positive feedback.
 Also, in some cases, I could really learn some things for my daily job.
 
