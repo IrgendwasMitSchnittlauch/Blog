@@ -15,6 +15,12 @@ Originally I had my own wix hosted blog, which was kinda fun *(design, layouts, 
 
 Now about 2,5 years later, I decided to take a restart and get to start again with my already gained experience this new project.
 
+## How do I navigate through your blog?
+You can either choose to go through my folders, where I sort my posts by topic, or you can simply check out my [Latest posts page](https://github.com/IrgendwasMitSchnittlauch/Blog/blob/main/Latest-Posts.md), where you will find the newest blog posts.
+
+> [!TIP]
+> **Feedback to submit?**
+> Feel free to create Merge Requests or text me on [LinkedIn](https://www.linkedin.com/in/scholzflorian/).
 
 
 ### Interested? Feel free to follow my online adventures
