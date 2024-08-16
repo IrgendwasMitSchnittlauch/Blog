@@ -31,8 +31,9 @@ I like this idea really, since this is closer on real life experience, then exam
 > Due to its age, the certifications are very poor regarding topics, knowledge and of reputation. I'll hope, this will change within the next months.
 
 ## Quick links and sharings:
-For my german readers, I would strongly recommend to check out the following link to get more in touch with the [Microsoft Virtual Training Days](https://www.microsoft.com/de-de/events-de/virtual-training-days/default.aspx#mavtdaf). <br>
-Furthermore I want to share the [Microsoft Event Calendar](https://events.microsoft.com/en-us/allevents/?language=English&clientTimeZone=1?timeperiod=next30Days?isSharedInLocalViewMode=false) with the possibility to join hundreds of Microsoft events, lectures and presentation from Microsoft or partners.
+> [!TIP]
+> For my german readers, I would strongly recommend to check out the following link to get more in touch with the [Microsoft Virtual Training Days](https://www.microsoft.com/de-de/events-de/virtual-training-days/default.aspx#mavtdaf). <br>
+> Furthermore I want to share the [Microsoft Event Calendar](https://events.microsoft.com/en-us/allevents/?language=English&clientTimeZone=1?timeperiod=next30Days?isSharedInLocalViewMode=false) with the possibility to join hundreds of Microsoft events, lectures and presentation from Microsoft or partners.
 
 
 ## Was there any benefit for me? Was it worth it?
