@@ -18,6 +18,7 @@ With this option, I was able to do the following certifications:
 
 This led me later due to often Exchange OnPrem and Exchange Online tasks to the following certification:
 - Microsoft Messaging Administrator Associate (MS-203)
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
 
 ## Applied Skills Certifications
 Microsofts new "Applied Skills" certifications are a great alternative for "non-exam learners". <br>
