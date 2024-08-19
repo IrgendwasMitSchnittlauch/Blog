@@ -31,6 +31,21 @@ I like this idea really, since this is closer on real life experience, then exam
 > About a half year ago, Microsoft introduced into "Applied Skills Certifications".
 > Due to its age, the certifications are very poor regarding topics, knowledge and of reputation. I'll hope, this will change within the next months.
 
+## What is my learning method?
+My personal way to learn for certain Microsoft certification is quite structured and (so far) very reliable. <br>
+1. **Get started with the basics** <br>
+For me it's important to understand what am I facing within the certification and what are the topics. Therefore I mostly check out the learning posters from [MS Learning](https://learn.microsoft.com/en-us/credentials/)
+2. **Check out visual content** <br>
+I'm a fan of watching Youtube tutorials or walkthroughs of the respective exam. These videos are explaining well and are a solid basis.
+3. **Read and understand the docs** <br>
+To fill my knowledge the learning paths provided by Microsoft regarding the respective certifications is a great option to get into details.
+4. **Learn towards the exam with "Anki"** <br>
+Anki is a flashcard tool which helps you imense to learn for respective certifications. It is designed as a flashcard tool, which is a great exam preparation.
+5. **Ready for exam** <br>
+Whenever I feel confident for these points, I'll sign up for the exam.
+
+
+
 ## Quick links and sharings:
 > [!TIP]
 > For my german readers, I would strongly recommend to check out the following link to get more in touch with the [Microsoft Virtual Training Days](https://www.microsoft.com/de-de/events-de/virtual-training-days/default.aspx#mavtdaf). <br>
