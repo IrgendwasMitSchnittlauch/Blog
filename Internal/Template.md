@@ -2,6 +2,8 @@
 > _Published: DATE_<br>
 > _Author: Schnittlauch_
 
+![Update](https://img.shields.io/badge/Update-4287f5)
+
 ## Quick links and sharings:
 > [!TIP]
 > Links & Tips
