@@ -18,7 +18,7 @@ The following MS learn docs is a great way to understand this construct more. [L
 So in general, Microsoft provides many information regarding hybrid workers (prerequisites, ports, etc.) <br>
 A huge point, which is definitely missing, is what type of server the hybrid worker should or shouldn't have! <br>
 This is getting very dangerous when running with the default implemented "run in system context" option.<br>
-Microsoft developer could say `"this works as designed"`.
+A Microsoft developer could say `"this works as designed"`.
 
 > [!CAUTION]
 > **Do never** install the extension on a VM with critical roles (f.e. a domain controller). _See PoC_
