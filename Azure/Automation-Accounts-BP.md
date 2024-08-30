@@ -17,7 +17,11 @@ The following MS learn docs is a great way to understand this construct more. [L
 ## Why would you need another best practise? Microsoft's docs are very detailed.
 So in general, Microsoft provides many information regarding hybrid workers (prerequisites, ports, etc.) <br>
 A huge point, which is definitely missing, is what type of server the hybrid worker should or shouldn't have! <br>
-Microsoft developer could say `works as designed`.
+This is getting very dangerous when running with the default implemented "run in system context" option.<br>
+Microsoft developer could say `"this works as designed"`.
+
+> [!CAUTION]
+> **Do never** install the extension on a VM with critical roles (f.e. a domain controller). _See PoC_
 
 ## Proof of concept: Elevate yourself within your ADDS with highest priviledges.
 Within a short time of working in Azure Automation Accounts I've discovered a (from my pov) huge security issue, where I can elevate me or anyone else with all posible rights in my OnPrem ADDS (f.e. domain admin).
